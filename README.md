@@ -6,7 +6,6 @@ Py Desktop Cleanup is a Python 3 program that creates a new directory on your de
 
 1. Clone this repository to your local machine.
 2. Make sure you have Python 3 installed.
-3. Install the required packages by running `pip install -r requirements.txt`.
 
 ## Usage
 
